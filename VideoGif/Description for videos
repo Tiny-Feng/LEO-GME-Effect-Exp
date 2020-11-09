@@ -1,0 +1,18 @@
+# Vedio 1_coils-geomagnetic-erergy-harvesting-experiment
+Under the condition of air floatation, the calibrated resistance torque by the manufacturer of the three-DOF air-bearing platform (ABP) is 10-4Nm, and the ABP can keep still an any angle. In the video,
+
+a) compared with the other torque in the systems, the resistance torque of the ABP can be ignored. Our experimenter can easily push the systems with the flick of a finger, and then reposition the systems at the angle of the maximum generated magnetic torque (GMT) (perpendicular to the geomagnetic north-south direction);
+
+b) based on the torque effect of the geomagnetic field, the electrified coils can harvest the geomagnetic energy to rotate rapidly to the geomagnetic north-south direction.
+
+# Vedio 2_momentum-conservation-testing
+Under the condition of air floatation, the coils without the power supply rotate reversely when actively controlling the delivery subsystem. By this way, we can keep the coils still in the whole experimental process, when the electrified coils have a tendency of rotation under the geomagnetic field. It provides the feasibility of design for the following proof-of-principle experiments.
+
+# Vedio 3_initial-state-of-geomagnetic-energy-effect-experiments_2kg-payload
+The coils can harvest the geomagnetic energy (GME) to accelerate when electrified, and rotate with the different acceleration under the different generated magnetic torque. The coils keep still by the active control of the delivery subsystem, and the GME is then exchanged to the angular kinetic energy of the delivery subsystem and stored to the linear kinetic energy of the targeted debris.
+
+# Vedio 4_final-state-of-geomagnetic-energy-effect-experiments_2kg-payload
+The LEO geomagnetic energy (GME) harvesting, exchange, and storage can finally be achieved, and the final maximum linear velocity with a 2kg payload reaches 5.8m/s, 6.5m/s, 7.7m/s, and 9.6m/s under the different generated magnetic torque of 0.1509Nm, 0.2230Nm, 0.2974Nm, and 0.3717Nm, respectively. The coils can almost keep still in the whole process. The LEO geomagnetic energy utilization in space is elementarily verified.
+
+# Vedio 5_final-state-of-geomagnetic-energy-effect-experiment_0kg-payload
+The final maximum linear velocity without the payload reaches 11.1m/s. The coils can almost keep still in the whole process.
