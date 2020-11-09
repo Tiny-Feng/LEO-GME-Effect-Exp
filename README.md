@@ -1,4 +1,4 @@
-# Proof-of-Principle-Experiment-of-Geomagnetic-Energy-Effect-for-LEO-Debris-Deorbiting
+# Proof of Principle Experiment of Geomagnetic Energy Effect for LEO Debris Deorbiting
 The current space debris population is rapidly growing, and over 70% of debris is distributed between the 500 km to 1000 km low earth orbit (LEO). No existing method or technique appears to be both technically feasible and economically viable for LEO debris removal.
 
 A year ago we proposed the novel high-efficiency geomagnetic energy (GME) propellant approach to LEO (orbital altitude is less than 1000 km) space debris deorbiting, a new space momentum exchange approach from the angular kinetic energy to the linear kinetic energy; besides, we gave two kinds of spin angular momentum accumulation (SAMA) strategies to continuously store angular momentum for the spacecraft-debris system. To understand details of the GME approach and the SAMA, please refer to https://doi.org/10.1155/2019/5876861.
@@ -45,6 +45,6 @@ The final maximum linear velocity without the payload reaches 11.1m/s. The coils
 
 ![image](https://github.com/Tiny-Feng/LEO-GME-Effect-Exp/blob/main/VideoGif/Video5.gif)
 
-# For a complete video source file, please see the VideoSourceFile folder or click https://github.com/Tiny-Feng/LEO-GME-Effect-Exp/tree/main/VideoSourceFile.
+For a complete video source file, please see the VideoSourceFile folder or click https://github.com/Tiny-Feng/LEO-GME-Effect-Exp/tree/main/VideoSourceFile.
 
 
